@@ -1,7 +1,7 @@
-Will you and your friend come around?
-Are you and your friend gonna get on down?
-Will you and your friend come around?
-Or are you and your friend gonna let me down?
+!CHANGES FOR LINE 1 Will you and your friend come around?
+!CHANGES FOR LINE 2 Are you and your friend gonna get on down?
+!CHANGES FOR LINE 3 Will you and your friend come around?
+!CHANGES FOR LINE 4 Or are you and your friend gonna let me down?
 If you talk to one another
 I'm a hungry man
 Let me know one way or the other
